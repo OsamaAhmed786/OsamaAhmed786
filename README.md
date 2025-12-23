@@ -1,16 +1,234 @@
-## Hi there 👋
+<div align="center">
+  
+# 👋 Hey there! I'm Osama Ahmed
 
-<!--
-**OsamaAhmed786/OsamaAhmed786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤖 AI Engineer | 🐍 Python Developer | 🧠 Machine Learning Enthusiast
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Engineer;Machine+Learning+Specialist;Deep+Learning+Expert;Python+Developer;Data+Scientist;Web+Developer" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+<img src="https://komarev.com/ghpvc/?username=OsamaAhmed786&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+```python
+class OsamaAhmed:
+    def __init__(self):
+        self.username = "OsamaAhmed786"
+        self.role = "AI Engineer & Full Stack Developer"
+        self.location = "Karachi, Pakistan 🇵🇰"
+        self.education = "BS in Artificial Intelligence"
+        
+    def current_focus(self):
+        return [
+            "🤖 Building AI-powered applications",
+            "🧠 Deep Learning & Neural Networks",
+            "📊 Machine Learning Model Optimization",
+            "🌐 Full Stack Web Development",
+            "☁️ Cloud Deployment & DevOps"
+        ]
+    
+    def tech_stack(self):
+        return {
+            "ai_ml": ["TensorFlow", "PyTorch", "Scikit-learn", "Keras", "OpenCV"],
+            "languages": ["Python", "JavaScript", "Java", "HTML/CSS"],
+            "frameworks": ["Django", "FastAPI", "React", "Node.js"],
+            "databases": ["PostgreSQL", "MongoDB", "MySQL"],
+            "tools": ["Docker", "Git", "AWS", "Google Cloud"],
+            "others": ["REST APIs", "Web Scraping", "Data Analysis"]
+        }
+    
+    def current_projects(self):
+        return [
+            "🐾 Pupify - AI Banner Generator",
+            "💰 Smart Expense Tracker with ML",
+            "📈 Stock Price Prediction System",
+            "🚗 Vehicle Detection & Tracking",
+            "🎤 Text-to-Speech Synthesis"
+        ]
+
+osama = OsamaAhmed()
+print(osama.current_focus())
+```
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+### 🤖 AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 💻 Web Development
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ☁️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OsamaAhmed786&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaAhmed786&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OsamaAhmed786&theme=tokyonight" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OsamaAhmed786&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=OsamaAhmed786&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🔥 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/OsamaAhmed786/Stock-Price-Prediction">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OsamaAhmed786&repo=Stock-Price-Prediction&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/OsamaAhmed786/Smart-Expense-Tracker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OsamaAhmed786&repo=Smart-Expense-Tracker&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/OsamaAhmed786/Vehicle-Detection-and-Tracking">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OsamaAhmed786&repo=Vehicle-Detection-and-Tracking&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/OsamaAhmed786/Django-Cars-Website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OsamaAhmed786&repo=Django-Cars-Website&theme=tokyonight" />
+</a>
+
+</div>
+
+---
+
+## 💼 Professional Experience
+
+```yaml
+current_role: "AI Engineer & Full Stack Developer"
+specialization:
+  - Artificial Intelligence & Machine Learning
+  - Deep Learning Model Development
+  - Computer Vision Applications
+  - Natural Language Processing
+  - Web Application Development
+  - API Development & Integration
+  - Cloud Deployment & DevOps
+
+achievements:
+  - "Developed 15+ AI/ML projects"
+  - "Built production-ready web applications"
+  - "Deployed scalable Docker containers"
+  - "Contributed to open-source projects"
+  - "Active learner in cutting-edge AI technologies"
+```
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OsamaAhmed786&bg_color=1a1b27&color=628fdb&line=38bdae&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🎯 Current Goals for 2025
+
+- 🚀 Contribute to more open-source AI projects
+- 📚 Master advanced deep learning architectures
+- 🌐 Build and deploy 10+ production-ready AI applications
+- 🤝 Collaborate with AI/ML community
+- 📝 Write technical blogs on AI/ML topics
+- 🏆 Achieve AWS & Google Cloud certifications
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+I'm always open to interesting conversations and collaboration opportunities!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+
+### 💬 Feel free to reach out if you want to:
+- 🤖 Discuss AI/ML projects
+- 💻 Collaborate on open-source
+- 🚀 Build something amazing together
+- 📚 Share knowledge and learn
+
+</div>
+
+---
+
+<div align="center">
+  
+### ⭐ From [OsamaAhmed786](https://github.com/OsamaAhmed786) with 💙
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+**Show some ❤️ by starring some of my repositories!**
+
+</div>
