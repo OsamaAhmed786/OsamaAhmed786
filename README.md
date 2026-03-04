@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Engineer;Machine+Learning+Specialist;Deep+Learning+Expert;Python+Developer;Data+Scientist;Web+Developer" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osama-ahmed-59685721b/)
-[![Instagram](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.instagram.com/osama_ladla)
+[![Instagram](https://img.shields.io/badge/instagram-FF5722?style=for-the-badge&&logoColor=white)](https://www.instagram.com/osama_ladla)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osama.soft.bus@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=OsamaAhmed786&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -112,10 +112,6 @@ print(osama.current_focus())
 </div>
 
 
-
----
-
-
 ---
 
 ## 💼 Professional Experience
@@ -169,7 +165,7 @@ achievements:
 I'm always open to interesting conversations and collaboration opportunities!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osama-ahmed-59685721b/)
-[![Instagram](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.instagram.com/osama_ladla)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-1DA1F2?style=for-the-badge&r&logoColor=white)](https://www.instagram.com/osama_ladla)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osama.soft.bus@gmail.com)
 
 
